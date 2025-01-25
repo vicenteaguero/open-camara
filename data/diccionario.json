@@ -1,0 +1,33 @@
+{
+    "votos": {
+        "En Contra": 0,
+        "Afirmativo": 1,
+        "Abstención": 2,
+        "Dispensado": 3
+    },
+    "quorum": {
+        "Sin Información": 0,
+        "Quórum Simple": 1,
+        "Quórum Calificado": 2,
+        "Reforma Constitucional 2/3": 3,
+        "Reforma Constitucional 3/5": 4,
+        "Ley Orgánica Constitucional": 5,
+        "3/5": 7,
+        "2/3": 10,
+        "1/3": 9
+    },
+    "resultados": {
+        "Sin Información": 0,
+        "Aprobado": 1,
+        "Unánime": 2,
+        "Empate": 3,
+        "Sin Quórum": 4
+    },
+    "tipos": {
+        "Sin Información": 0,
+        "Proyecto de Ley": 1,
+        "Proyecto de Resolución": 2,
+        "Proyecto de Acuerdo": 3,
+        "Otros": 4
+    }
+}
