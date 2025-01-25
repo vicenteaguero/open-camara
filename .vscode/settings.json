@@ -1,0 +1,8 @@
+{
+    "conventionalCommits.scopes": [
+        "general",
+        "open-camara",
+        "notebooks",
+        "data"
+    ]
+}
